@@ -1,7 +1,9 @@
 application:
   users:
     endpoint:
-      user: http://reqres.in/api/users
+      user: http://reqres.in/api
+    path:
+      user: /users
     timeout:
       connection: 
         user: 5000
