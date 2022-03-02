@@ -1,0 +1,11 @@
+application:
+  users:
+    endpoint:
+      user: https://reqres.in/api/users
+    timeout:
+      connection: 
+        user: 5000
+      read:
+        user: 5000
+      write:
+        user: 5000
