@@ -1,4 +1,4 @@
 application:
   users:
     endpoint:
-      user: https://reqres.in/api/users
+      user: https://reqres.in/api/users/2
